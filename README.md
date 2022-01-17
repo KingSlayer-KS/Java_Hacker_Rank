@@ -1,6 +1,6 @@
-Java_Hacker_Rank
----------------
+### Java HackerRank Practice
+
 
 list of questions:
 
-+[ ] [Hello](https://www.hackerrank.com/challenges/welcome-to-java/problem)
++ [ ] [Hello](https://www.hackerrank.com/challenges/welcome-to-java/problem)
