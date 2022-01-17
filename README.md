@@ -1,4 +1,4 @@
-### Java HackerRank Practice
+## Java HackerRank Practice
 
 
 list of questions:
