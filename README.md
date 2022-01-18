@@ -12,3 +12,5 @@ list of questions:
 + [ ] [if-else_if-else:](https://www.hackerrank.com/challenges/java-if-else/problem)
 
 + [ ] [Java_output_formatting:](https://www.hackerrank.com/challenges/java-output-formatting/problem)
+
++ [ ] [Java_loops_1:](https://www.hackerrank.com/challenges/java-loops-i/problem)
