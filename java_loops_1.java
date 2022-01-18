@@ -9,8 +9,8 @@ public class java_loops_1 {
             bufferedReader.close();
 
             for (int i = 1; i < 11; i++) {
-                int k= N*i;
-                System.out.printf("%s x %s = %s%n",N,i,k);
+                int f= N*i;
+                System.out.printf("%s x %s = %s%n",N,i,f);
             }
 
         }
