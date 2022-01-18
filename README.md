@@ -14,3 +14,5 @@ list of questions:
 + [ ] [Java_output_formatting:](https://www.hackerrank.com/challenges/java-output-formatting/problem)
 
 + [ ] [Java_loops1:](https://www.hackerrank.com/challenges/java-loops-i/problem)
+
++ [ ] [Java_loops2:](https://www.hackerrank.com/challenges/java-loops/problem)
