@@ -24,3 +24,5 @@ list of questions:
 + [ ] [Java Static Initializer Block:](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)
 
 + [ ] [Java_Into_String:](https://www.hackerrank.com/challenges/java-int-to-string/problem)
+
++ [ ] [Java_Date_and_Time:](https://www.hackerrank.com/challenges/java-date-and-time/problem)
