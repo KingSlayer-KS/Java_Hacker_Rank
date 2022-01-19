@@ -20,3 +20,7 @@ list of questions:
 + [ ] [Java_Datatypes:](https://www.hackerrank.com/challenges/java-datatypes/problem)
 
 + [ ] [End-of-file:](https://www.hackerrank.com/challenges/java-end-of-file/problem)
+
++ [ ] [Java Static Initializer Block:](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)
+
++ [ ] [Java_Into_String:](https://www.hackerrank.com/challenges/java-int-to-string/problem)
