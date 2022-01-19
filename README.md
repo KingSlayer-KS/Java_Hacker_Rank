@@ -18,3 +18,5 @@ list of questions:
 + [ ] [Java_loops2:](https://www.hackerrank.com/challenges/java-loops/problem)
 
 + [ ] [Java_Datatypes:](https://www.hackerrank.com/challenges/java-datatypes/problem)
+
++ [ ] [End-of-file:](https://www.hackerrank.com/challenges/java-end-of-file/problem)
