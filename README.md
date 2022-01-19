@@ -26,3 +26,5 @@ list of questions:
 + [ ] [Java_Into_String:](https://www.hackerrank.com/challenges/java-int-to-string/problem)
 
 + [ ] [Java_Date_and_Time:](https://www.hackerrank.com/challenges/java-date-and-time/problem)
+
++ [ ] [Currency_Formatter:](https://www.hackerrank.com/challenges/java-currency-formatter/problem)
