@@ -34,3 +34,5 @@ list of questions:
 + [ ] [String_Substring:](https://www.hackerrank.com/challenges/java-substring/problem)
 
 + [ ] [String_Comparisons:](https://www.hackerrank.com/challenges/java-string-compare/problem)
+
++ [ ] [String_Reverse:](https://www.hackerrank.com/challenges/java-string-reverse/problem)
