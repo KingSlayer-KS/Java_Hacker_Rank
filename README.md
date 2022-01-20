@@ -36,3 +36,5 @@ list of questions:
 + [ ] [String_Comparisons:](https://www.hackerrank.com/challenges/java-string-compare/problem)
 
 + [ ] [String_Reverse:](https://www.hackerrank.com/challenges/java-string-reverse/problem)
+
++ [ ] [String_Anagrams:](https://www.hackerrank.com/challenges/java-anagrams/problem)
