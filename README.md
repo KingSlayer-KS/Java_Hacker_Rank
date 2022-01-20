@@ -32,3 +32,5 @@ list of questions:
 + [ ] [String_Introduction:](https://www.hackerrank.com/challenges/java-strings-introduction/problem)
 
 + [ ] [String_Substring:](https://www.hackerrank.com/challenges/java-substring/problem)
+
++ [ ] [String_Comparisons:](https://www.hackerrank.com/challenges/java-string-compare/problem)
