@@ -30,3 +30,5 @@ list of questions:
 + [ ] [Currency_Formatter:](https://www.hackerrank.com/challenges/java-currency-formatter/problem)
 
 + [ ] [String_Introduction:](https://www.hackerrank.com/challenges/java-strings-introduction/problem)
+
++ [ ] [String_Substring:](https://www.hackerrank.com/challenges/java-substring/problem)
