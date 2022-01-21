@@ -40,3 +40,5 @@ list of questions:
 + [ ] [String_Anagrams:](https://www.hackerrank.com/challenges/java-anagrams/problem)
 
 + [ ] [String_Tokens:](https://www.hackerrank.com/challenges/java-string-tokens/problem)
+
++ [ ] [String_Pattern_Syntax_Checker:](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)
