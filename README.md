@@ -38,3 +38,5 @@ list of questions:
 + [ ] [String_Reverse:](https://www.hackerrank.com/challenges/java-string-reverse/problem)
 
 + [ ] [String_Anagrams:](https://www.hackerrank.com/challenges/java-anagrams/problem)
+
++ [ ] [String_Tokens:](https://www.hackerrank.com/challenges/java-string-tokens/problem)
