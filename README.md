@@ -42,3 +42,5 @@ list of questions:
 + [ ] [String_Tokens:](https://www.hackerrank.com/challenges/java-string-tokens/problem)
 
 + [ ] [String_Pattern_Syntax_Checker:](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)
+
++ [ ] [Valid_Username_Regular_Expression:](https://www.hackerrank.com/challenges/valid-username-checker/problem)
