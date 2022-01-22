@@ -44,3 +44,5 @@ list of questions:
 + [ ] [String_Pattern_Syntax_Checker:](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)
 
 + [ ] [Valid_Username_Regular_Expression:](https://www.hackerrank.com/challenges/valid-username-checker/problem)
+
++ [ ] [Java_Primality_Test:](https://www.hackerrank.com/challenges/valid-username-checker/problem)
