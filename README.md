@@ -48,3 +48,5 @@ list of questions:
 + [ ] [Valid_Username_Regular_Expression:](https://www.hackerrank.com/challenges/valid-username-checker/problem)
 
 + [ ] [Java_Primality_Test:](https://www.hackerrank.com/challenges/valid-username-checker/problem)
+
++ [ ] [Java_1D_Array:](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)
