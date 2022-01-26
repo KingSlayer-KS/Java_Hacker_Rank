@@ -52,3 +52,5 @@ list of questions:
 + [ ] [Java_1D_Array:](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)
 
 + [ ] [Java_2D_Array:](https://www.hackerrank.com/challenges/java-2d-array-introduction/problem)
+
++ [ ] [Java_List:](https://www.hackerrank.com/challenges/java-list/problem)
