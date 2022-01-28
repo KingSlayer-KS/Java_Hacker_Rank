@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Substring_Comparisons {
     public static String getSmallestAndLargest(String s, int k) {
-        List f = new ArrayList<String>();
+        List<String> f = new ArrayList<String>();
         String smallest = "";
         String largest = "";
         for (int i = 0; i <= s.length() - k; i++) {
@@ -14,7 +14,7 @@ public class Substring_Comparisons {
         smallest = String.valueOf(f.get(0));
         largest = String.valueOf(f.get(f.size() - 1));
         return smallest + "\n" + largest;
-        // return String.valueOf(f);
+
     }
 
     public static void main(String[] args) {
