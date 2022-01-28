@@ -2,11 +2,12 @@ import java.util.*;
 
 public class Substring {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        String S = in.next();
-        int start = in.nextInt();
-        int end = in.nextInt();
-        System.out.println(S.substring(start,end));
+        Scanner sc = new Scanner(System.in);
+        String S = sc.next();
+        int start = sc.nextInt();
+        int end = sc.nextInt();
+        System.out.println(S.substring(start, end));
+        sc.close();
     }
 
 }
