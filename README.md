@@ -5,9 +5,9 @@ list of questions:
 
 + [ ] [Hello:](https://www.hackerrank.com/challenges/welcome-to-java/problem)
 
-+ [ ] [systemin_systemout:](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)
++ [ ] [Systemin_Systemout:](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)
 
-+ [ ] [systemin_systemout2:](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)
++ [ ] [Systemin_Systemout2:](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)
 
 + [ ] [if-else_if-else:](https://www.hackerrank.com/challenges/java-if-else/problem)
 
@@ -23,7 +23,7 @@ list of questions:
 
 + [ ] [End-of-file:](https://www.hackerrank.com/challenges/java-end-of-file/problem)
 
-+ [ ] [Java Static Initializer Block:](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)
++ [ ] [Java_Static_Initializer_Block:](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)
 
 + [ ] [Java_Into_String:](https://www.hackerrank.com/challenges/java-int-to-string/problem)
 
