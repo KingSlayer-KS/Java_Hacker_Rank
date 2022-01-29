@@ -57,6 +57,7 @@ list of questions:
 
 + [ ] [Java_Subarray:](https://www.hackerrank.com/challenges/java-negative-subarray/probleme)
 
-+ [ ] [Java_Varargs__Simple_Addition:](https://www.hackerrank.com/challenges/java-list/problem)
++ [ ] [Java_Arraylist:](https://www.hackerrank.com/challenges/java-arraylist/problem)
 
++ [ ] [Java_Varargs__Simple_Addition:](https://www.hackerrank.com/challenges/java-list/problem)
 
