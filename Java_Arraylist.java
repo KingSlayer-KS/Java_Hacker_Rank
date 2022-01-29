@@ -22,6 +22,14 @@ public class Java_Arraylist {
             else {
                 System.out.println("ERROR!");
             }
+            /*
+             * OR
+             * try {
+             * System.out.println(list[x - 1].get(y - 1));
+             * } catch (Exception e) {
+             * System.out.println("ERROR!");
+             * }
+             */
 
         }
         sc.close();
