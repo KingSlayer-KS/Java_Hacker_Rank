@@ -61,5 +61,7 @@ list of questions:
 
 + [ ] [Java_Map:](https://www.hackerrank.com/challenges/phone-book/problem)
 
++ [ ] [Java_Hashset:](https://www.hackerrank.com/challenges/java-hashset/problem)
+
 + [ ] [Java_Varargs__Simple_Addition:](https://www.hackerrank.com/challenges/java-list/problem)
 
