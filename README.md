@@ -67,7 +67,7 @@ list of questions:
 
 + [ ] [Java_Sort:](https://www.hackerrank.com/challenges/java-sort/problem)
 
-+ [ ] [Java_Sort:](https://www.hackerrank.com/challenges/java-bitset/problem)
++ [ ] [Java_BitSet:](https://www.hackerrank.com/challenges/java-bitset/problem)
 
 + [ ] [Java_Varargs__Simple_Addition:](https://www.hackerrank.com/challenges/java-list/problem)
 
