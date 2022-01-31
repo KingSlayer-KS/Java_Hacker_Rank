@@ -44,6 +44,7 @@ public class Java_Sort {
         }
         Collections.sort(studentList, Comparator.comparing(Student::getCgpa).reversed().thenComparing(Student::getFname)
                 .thenComparing(Student::getId));
+
         for (Student st : studentList) {
             System.out.println(st.getFname());
         }
