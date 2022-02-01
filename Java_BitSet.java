@@ -2,9 +2,9 @@ import java.util.*;
 
 public class Java_BitSet {
     public static void main(String[] args) {
-        Scanner get = new Scanner(System.in);
-        int n = get.nextInt();
-        int m = get.nextInt();
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int m = sc.nextInt();
 
         BitSet b1 = new BitSet(n);
         BitSet b2 = new BitSet(n);
@@ -14,9 +14,9 @@ public class Java_BitSet {
         bitset[2] = b2;
 
         while (0 < m--) {
-            String op = get.next();
-            int x = get.nextInt();
-            int y = get.nextInt();
+            String op = sc.next();
+            int x = sc.nextInt();
+            int y = sc.nextInt();
 
             switch (op) {
                 case "AND":
@@ -37,5 +37,6 @@ public class Java_BitSet {
 
             System.out.printf("%d %d%n", b1.cardinality(), b2.cardinality());
         }
+        sc.close();
     }
 }
