@@ -73,6 +73,8 @@ list of questions:
 
 + [ ] [Java_Inheritance_II:](https://www.hackerrank.com/challenges/java-inheritance-2/problem)
 
++ [ ] [Java_Abstract_Class:](https://www.hackerrank.com/challenges/java-abstract-class/problem)
+
 + [ ] [Java_Exception_Handling_Trycatch:](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)
 
 + [ ] [Java_Varargs__Simple_Addition:](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)
