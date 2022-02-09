@@ -69,7 +69,7 @@ list of questions:
 
 + [ ] [Java_BitSet:](https://www.hackerrank.com/challenges/java-bitset/problem)
 
-+ [ ] [Java_Inheritance_1:]https://www.hackerrank.com/challenges/java-inheritance-1/problem)
++ [ ] [Java_Inheritance_1:](https://www.hackerrank.com/challenges/java-inheritance-1/problem)
 
 + [ ] [Java_Inheritance_II:](https://www.hackerrank.com/challenges/java-inheritance-2/problem)
 
