@@ -85,4 +85,6 @@ list of questions:
 
 + [ ] [Java_Exception_Handling_Trycatch:](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)
 
++ [ ] [Java_Exception_Handling:](https://www.hackerrank.com/challenges/java-exception-handling/problem)
+
 + [ ] [Java_Varargs__Simple_Addition:](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)
