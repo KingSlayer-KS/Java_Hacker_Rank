@@ -83,6 +83,8 @@ list of questions:
 
 + [ ] [Java_Instanceof_keyword:](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem)
 
++ [ ] [Java_Iterator:](https://www.hackerrank.com/challenges/java-iterator/problem)
+
 + [ ] [Java_Exception_Handling_Trycatch:](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)
 
 + [ ] [Java_Exception_Handling:](https://www.hackerrank.com/challenges/java-exception-handling/problem)
